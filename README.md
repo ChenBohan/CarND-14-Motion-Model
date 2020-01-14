@@ -1,4 +1,4 @@
-# CarND-14-Motion-Model-Bicycle-Model
+# CarND-14-Motion-Model
 Udacity Self-Driving Car Engineer Nanodegree: Motion Model.
 
 ## Bicycle Model
